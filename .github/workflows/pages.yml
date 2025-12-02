@@ -18,10 +18,21 @@ jobs:
         with:
           ruby-version: '3.2'
 
-      - name: Install dependencies
+      - name: Install Ruby dependencies
         run: |
           gem install bundler
           bundle install
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Build JS/CSS assets
+        run: npm run build
 
       - name: Build site
         run: bundle exec jekyll build --trace

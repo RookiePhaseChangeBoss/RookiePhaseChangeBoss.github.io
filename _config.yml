@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: "少时宗悫's Blog" # the main title
 
-tagline: "Linux · Robotics · Philosophy" # it will display as the subtitle
+tagline: "Linux · Robotics · Philosophy · Psychology · History" # it will display as the subtitle
 
 description: "个人学习记录与思想归档" # used by seo meta and the atom feed
 
@@ -88,6 +88,8 @@ pageviews:
 #     dark — Use the dark color scheme
 #
 theme_mode: # [light | dark]
+
+
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
