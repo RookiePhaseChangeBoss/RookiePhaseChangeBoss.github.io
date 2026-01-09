@@ -4,7 +4,7 @@ date: 2025-01-01 10:00:00 +0800
 categories: [This_Demo, Tutorial]   # 分类（支持多级）
 tags: [Demo]               				# 标签（不限数量）
 description: "本篇文章的简短摘要，用于 SEO 与文章预览。"
-author: 你的名字（可选）
+author: "YoungZhongque"
 pin: false                              # 是否置顶（true / false）
 
 # 封面图（社交媒体预览图最佳尺寸 1200x630）
