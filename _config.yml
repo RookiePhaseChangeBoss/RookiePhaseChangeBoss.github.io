@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: "少时宗悫's Blog" # the main title
 
-tagline: "Linux · Robotics · Philosophy · Psychology · History" # it will display as the subtitle
+tagline: "Linux · Robotics · Philosophy · Psychology · History · Music" # it will display as the subtitle
 
 description: "个人学习记录与思想归档" # used by seo meta and the atom feed
 
@@ -38,7 +38,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/RookiePhaseChangeBoss # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
