@@ -3,8 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: qq
+  icon: "fa-brands fa-qq"
+  url: "https://wpa.qq.com/msgrd?v=3&uin=1933723795&site=qq&menu=yes"
+
 
 - type: email
   icon: "fas fa-envelope"
